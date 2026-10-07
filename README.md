@@ -15,8 +15,8 @@ Seeking a 6 to 12-month **Software Engineering Internship** starting in June 202
 
 ### 📌 Featured Projects
 
-#### [3D Volleyball Simulation & Graphics Engine](https://github.com/victor-saunier/projet-3eti-tsi)
-- Built a real-time interactive 3D volleyball simulation running at 60 FPS in Python and PyOpenGL.
+#### [3D Penalty Shootout Simulation & Graphics Engine](https://github.com/victor-saunier/projet-3eti-tsi)
+- Built a real-time interactive 3D Penalty Shootout simulation running at 60 FPS in Python and PyOpenGL.
 - Implemented a programmable rendering pipeline featuring custom GLSL shaders (Phong illumination model) and 2D texture mapping.
 - Programmed a deterministic physics engine handling parabolic projectile trajectories, gravity, and sphere-plane/bounding-box collisions with momentum damping.
 
