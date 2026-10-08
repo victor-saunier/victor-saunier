@@ -30,5 +30,5 @@ Seeking a 6 to 12-month **Software Engineering Internship** starting in June 202
 ### 📫 Connect
 
 - **Email:** [victor.saunier@cpe.fr](mailto:victor.saunier@cpe.fr)
-- **LinkedIn:** [https://www.linkedin.com/](www.linkedin.com/in/victor-saunier-6648b03a9)
+- **LinkedIn :** [Mon Profil](https://www.linkedin.com/in/victor-saunier-6648b03a9)
 - **Location:** Lyon, France
