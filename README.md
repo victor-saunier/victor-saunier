@@ -15,16 +15,15 @@ Seeking a 6 to 12-month **Software Engineering Internship** starting in June 202
 
 ### 📌 Featured Projects
 
-#### [3D Penalty Shootout Simulation & Graphics Engine](https://github.com/victor-saunier/projet-3eti-tsi)
-- Built a real-time interactive 3D Penalty Shootout simulation running at 60 FPS in Python and PyOpenGL.
-- Implemented a programmable rendering pipeline featuring custom GLSL shaders (Phong illumination model) and 2D texture mapping.
-- Programmed a deterministic physics engine handling parabolic projectile trajectories, gravity, and sphere-plane/bounding-box collisions with momentum damping.
+#### [Real-Time 3D Rendering Engine](https://github.com/victor-saunier/cpp-3d-renderer)
+* Architected a modular real-time 3D renderer sustaining **1,500+ FPS** over 69K+ polygons in C++20 using Modern OpenGL (Core Profile 3.3) and target-based CMake across Linux and Windows
+* Implemented an indexed geometry processing pipeline (VAO/VBO/EBO) parsing Wavefront `.obj` files with *tinyobjloader* and computing smooth surface normals dynamically
+* Designed custom GLSL shaders executing Blinn-Phong lighting integrated with an embedded *Dear ImGui* debug panel, enforcing strict RAII semantics (`= delete` copy) to eliminate GPU resource leaks
 
-#### [Travel Discovery & Booking Web Application](https://github.com/victor-saunier/projet-3eti-tlw)
-- Developed a multi-page client-side travel booking platform using vanilla JavaScript (ES6), HTML5, and CSS3.
-- Integrated OpenWeatherMap REST API asynchronously (`fetch` / Promises) to render live meteorological forecasts with fallback error handling.
-- Implemented local state persistence for shopping carts and user sessions via the Web Storage API (`localStorage`), alongside client-side form validation pipelines.
-
+#### [3D Interactive Simulation & Physics Engine](https://github.com/victor-saunier/projet-3eti-tsi)
+* Built an interactive 3D simulation running at a stable **60 FPS** in Python and PyOpenGL using a decoupled game loop isolating input, rendering, and physics steps
+* Programmed real-time projectile physics handling parabolic trajectories, gravity, and sphere-plane/bounding-box collisions with momentum damping for 20+ entities
+* Implemented a programmable rendering pipeline featuring custom GLSL shaders (Phong illumination model) and 2D texture mapping
 ---
 
 ### 📫 Connect
